@@ -4,6 +4,8 @@
 
 ###### 1. Lakukan proses instalasi framework laravel kedalam folder dengan nama masing-masing
 ```
-test
+composer create-project laravel/laravel penjualan
+
 ```
+###### 2. Buatlah projek pertama laravel dengan nama projek “penjualan” dan tampilkan dalam browser.
 ##### Modul 2
